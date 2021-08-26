@@ -14,4 +14,7 @@
 <resources>
     <!-- Whether usage of the proximity sensor during doze is supported -->
     <bool name="doze_proximity_sensor_supported">false</bool>
+
+     <!-- Whether device has fingerprint on power button -->
+     <bool name="config_powerButtonFingerprint">true</bool>
 </resources>
