@@ -20,4 +20,7 @@
      
      <!-- Pocket Lock -->
     <bool name="config_pocketModeSupported">false</bool>
+         
+     <!-- Does the device have a notification led -->
+    <bool name="config_hasNotificationLed">false</bool>
 </resources>
