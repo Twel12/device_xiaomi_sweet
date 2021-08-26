@@ -17,4 +17,7 @@
 
      <!-- Whether device has fingerprint on power button -->
      <bool name="config_powerButtonFingerprint">true</bool>
+     
+     <!-- Pocket Lock -->
+    <bool name="config_pocketModeSupported">false</bool>
 </resources>
